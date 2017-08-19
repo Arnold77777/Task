@@ -1,4 +1,4 @@
-# godelTask
+# Godel task
 ### Flights Board
 
 * github link
@@ -7,5 +7,5 @@
 * adaptive
 * search input
 
-### link
+### Link
 * https://flight-board.bitballoon.com
