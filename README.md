@@ -8,4 +8,4 @@
 * search input
 
 ### link
-* flight-board.bitballoon.com
+* https://flight-board.bitballoon.com
