@@ -1,4 +1,4 @@
-# Godel task
+# Task
 ### Flights Board
 
 * github link
